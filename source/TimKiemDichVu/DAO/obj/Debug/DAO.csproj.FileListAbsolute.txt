@@ -1,0 +1,24 @@
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DAO.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DAO.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DataAccessLayer.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DTO.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DataAccessLayer.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\bin\Debug\DTO.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\obj\Debug\ResolveAssemblyReference.cache
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\obj\Debug\DAO.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\DAO\obj\Debug\DAO.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\bin\Debug\DAO.dll
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\bin\Debug\DAO.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\bin\Debug\DTO.dll
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\bin\Debug\DTO.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\bin\Debug\DataAccessLayer.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\obj\Debug\ResolveAssemblyReference.cache
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\obj\Debug\DAO.dll
+F:\Courses\QLQTPM\TimKiemDichVu\DAO\obj\Debug\DAO.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\bin\Debug\DAO.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\bin\Debug\DAO.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\bin\Debug\DTO.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\bin\Debug\DTO.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\obj\Debug\DAO.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\DAO\obj\Debug\DAO.pdb
