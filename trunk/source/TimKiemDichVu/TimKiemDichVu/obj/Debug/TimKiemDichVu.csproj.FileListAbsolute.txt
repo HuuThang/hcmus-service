@@ -1,0 +1,42 @@
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DAO.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DTO.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DAO.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\bin\DTO.pdb
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\obj\Debug\ResolveAssemblyReference.cache
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.dll
+D:\10HCA2\Học kỳ 3\Quản lý qui trình phần mềm [HCB]\Đồ án\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.dll
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DAO.dll
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DTO.dll
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.dll
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DAO.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DTO.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.pdb
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\obj\Debug\ResolveAssemblyReference.cache
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.dll
+F:\Courses\QLQTPM\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\DAO.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\DTO.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\DAO.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\bin\DTO.pdb
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.dll
+C:\Users\TuanGiang\Desktop\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.pdb
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.dll
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\TimKiemDichVu.pdb
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\DAO.dll
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\DTO.dll
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\DataAccessLayer.dll
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\DAO.pdb
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\bin\DTO.pdb
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\obj\Debug\ResolveAssemblyReference.cache
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.dll
+D:\01.DHKHTN\03.HK3\03.Quan Ly Qui Trinh Phan Mem\26122011v4TimKiemDichVu\TimKiemDichVu\TimKiemDichVu\obj\Debug\TimKiemDichVu.pdb

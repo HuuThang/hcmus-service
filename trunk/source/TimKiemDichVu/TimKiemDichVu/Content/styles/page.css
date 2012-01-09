@@ -1,0 +1,219 @@
+/* CSS Document */
+body{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+}
+a, a:hover, a:visited, a:active
+{
+    text-decoration: none;
+}
+body, div, table, tr, td, input, th{
+	margin: 0;
+	padding: 0;
+}
+h3{
+	border-bottom: 1px #E5E5E5 solid;
+}
+input{
+	padding: 2px 5px;
+}
+.clear{
+	clear: both;
+}
+
+.mainsearchbox{
+	margin: 200px auto;
+	width: 800px;
+	text-align: center;
+}
+.mainfooter{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 10px;
+	color: #CCC;
+	text-align: center;
+	background: #EEE;
+	border-top: 1px #BBB solid;
+}
+.searchbox{
+	float: left;
+}
+
+#keyword{
+	width: 500px;
+	border: 1px #C9C9C9 solid;
+	outline: none;
+	height: 25px;
+	font-size: 18px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	padding: 1px 5px;
+}
+
+#frmsearchsubmit{
+	width: 100px;
+	height: 30px;
+	border: 1px #D9D9D9 solid;
+	background: #329CFF;
+	color: #FFF;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.biglogo img{
+	margin: auto;
+	border: none;
+}
+.smalllogo{
+	margin-left: 40px;
+	margin-bottom: 10px;
+	height: 80px;
+}
+.smalllogo img{
+	margin-top: 20px;
+	max-height: 80px;
+	max-width: 150px;
+}
+
+.top{
+	border: 1px #E5E5E5 solid;
+	background: #F1F1F1;
+}
+.left{
+	width: 200px;
+	min-height: 10px;
+	float: left;
+}
+.right{
+	margin-left: 5px;
+	float: left;
+}
+.mainfield .right
+{
+    margin-bottom: 50px;
+}
+
+.right input[type=text]{
+	width: 300px;
+	height: 20px;
+}
+.right select{
+	height: 20px;
+	min-width: 300px;
+}
+.right textarea{
+	height: 100px;
+	min-width: 300px;
+}
+
+.row{
+	padding: 5px 0;
+}
+.row:hover{
+	background: #EEE;
+}
+
+
+.result{
+}
+
+a .result
+{
+    color: #333;
+}
+.resultcount{
+	min-height: 60px;
+	border-bottom: 1px #E5E5E5 solid;
+	vertical-align: bottom;
+}
+.resultcount .left div{
+	font-size: 20px;
+	color: #DD4433;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+.resultcount .right div{
+	color: #AAA;
+	padding-top: 20px;
+}
+
+
+.list{
+}
+
+.listitem{
+	padding: 8px 0;
+	padding-left: 40px;
+	height: 20px;
+	cursor: pointer;
+}
+a .listitem, a:hover .listitem, a:visited .listitem, a:active .listitem
+{
+    color: #333;
+}
+a .listitemselected, a:hover .listitemselected, a:visited .listitemselected, a:active .listitemselected
+{
+    color: #DD4B39;
+}
+.listitemselected{
+	color: #DD4B39;
+	background: url(../images/listitemselected.png) top left repeat-y;
+}
+.listitem:hover{
+	background-color: #EEE;
+}
+
+.mainfield{
+	margin-top: 25px;
+}
+
+.resultlist{
+}
+
+.result{
+	border-bottom: 1px #DDD solid;
+	margin-bottom: 20px;
+}
+.result div{
+	margin: 5px 0;
+}
+
+.result_name{
+	font-size: 16px;
+	color: #00F;
+	text-decoration: underline;
+}
+.result_address{
+	color: #093;
+}
+.result_notes{
+}
+.result_image{
+	margin-bottom: 10px;
+}
+
+.pagging{
+	margin-top: 10px;
+	margin-bottom: 70px;
+}
+
+.pagging a, .pagging a:hover, .pagging a:visited, .pagging a:active
+{
+	font-size:13px;
+	color: #00F;
+}
+
+.pagging div
+{
+    float: left;
+    text-align: center;
+    min-width: 25px;
+}
+.pagging span
+{
+    font-weight: 600;
+    color: #000;
+}
